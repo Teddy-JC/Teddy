@@ -1,1 +1,3 @@
-# Teddy
+# <center>Teddy</center>
+
+> From CYSYSU--Teddy
