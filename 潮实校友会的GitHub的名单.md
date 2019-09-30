@@ -5,7 +5,7 @@
 | 方梓昂 |  17 信计  |       [DynaZang](https://github.com/DynaZang)       |
 | 连泽帆 |  17 软工  |          [Boyzf](https://github.com/Boyzf)          |
 |  吴轩  |  18 电通  |         [wxaill](https://github.com/wxaill)         |
-| 翁泽嘉 | 18 计算机 |                                                     |
+| 翁泽嘉 | 18 计算机 |    [PastMasters](https://github.com/PastMasters)    |
 | 余傲泰 | 18 计算机 |       [Teddy-JC](https://github.com/Teddy-JC)       |
 | 陈晓纯 | 19 计算机 |       [agui-art](https://github.com/agui-art)       |
 | 蔡泽强 | 19 计算机 |       [cat-zero](https://github.com/cat-zero)       |
