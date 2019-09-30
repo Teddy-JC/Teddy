@@ -1,4 +1,4 @@
-# <center>潮实校友会的GitHub的名单</center>
+# 潮实校友会的GitHub的名单
 
 |  姓名  | 年级 专业 |                       GitHub                        |
 | :----: | :-------: | :-------------------------------------------------: |
@@ -14,5 +14,4 @@
 | 洪伟东 |  19 智工  | [huanhaimengdie](https://github.com/huanhaimengdie) |
 | 郑立晖 |  19 智工  |       [ZHENG-lh](https://github.com/ZHENG-lh)       |
 | 朱泽宇 |  19 智工  |        [Zippy-Z](https://github.com/Zippy-Z)        |
-|        |           |                                                     |
 
